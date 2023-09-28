@@ -8,4 +8,5 @@ public class RectangleRunner {
 
         System.out.printf("Total sqft of seed required: %d.%n", rect1.calculateArea() + rect2.calculateArea() + rect3.calculateArea());
     }
+
 }
